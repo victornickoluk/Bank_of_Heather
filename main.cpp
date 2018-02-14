@@ -4,13 +4,8 @@
 #include "Header.h"
 using namespace std;
 const int MIN_PER_HR=60;
-//gdgsdg
+
 bool newcustomer(double x);
-bool newcustomer(double x)
-{
-    
-    return (rand() * x/RAND_MAX<1);
-}
 int main()
 {
    srand (time(NULL));
@@ -100,4 +95,8 @@ int main()
     return 0;
 }
 
-
+bool newcustomer(double x)
+{
+    
+    return (rand() * x/RAND_MAX<1);
+}
