@@ -1,7 +1,7 @@
 
 #ifndef Header_h
 #define Header_h
-// yeeehaaaa
+// yeee
 //kljhjghfggfgh
 class Customer
 {
