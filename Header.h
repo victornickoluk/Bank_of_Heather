@@ -1,13 +1,6 @@
 
 #ifndef Header_h
 #define Header_h
-<<<<<<< HEAD
-// yeeehaaaa
-//asfsfdhgjhjsfsa
-=======
-// yeee
-//kljhjghfggfgh
->>>>>>> shorten_title
 class Customer
 {
 private:
